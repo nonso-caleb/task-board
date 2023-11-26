@@ -1,5 +1,5 @@
-import { AddNewItem } from "./AddNewItem";
-import { Column } from "./Column";
+import { AddNewItem } from "./components/AddNewItem";
+import { Column } from "./components/Column";
 import { AppContainer } from "./styles";
 import { useAppState } from "./state/AppStateContext";
 import { addList } from "./state/actions";
